@@ -3,12 +3,12 @@
     "metaData": {
         "icon": "images/icon.png",
         "iconSmall": "images/iconSmall.png",
-        "category": "message"
+        "category": "custom"
     },
     "type": "REST",
     "lang": {
         "en-US": {
-            "name": "Custom JB Activity",
+            "name": "CustomActivityJB",
           "description": "A Template for a custom Journey Builder activity",
           "step1Label": "Configure Activity"
         }
